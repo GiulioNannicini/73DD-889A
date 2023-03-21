@@ -1,0 +1,24 @@
+{
+  "name": "drawing",
+  "version": "1.0.0",
+  "description": "My webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiulioNannicini/73DD-889A.git"
+  },
+  "keywords": [
+    "npm",
+    "npm",
+    "collegamento"
+  ],
+  "author": "Giulio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiulioNannicini/73DD-889A/issues"
+  },
+  "homepage": "https://github.com/GiulioNannicini/73DD-889A#readme"
+}
